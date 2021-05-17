@@ -1,5 +1,5 @@
 # Help with github
-This is mygithub playground.
+This is **mygithub** *playground*.
 
 What can we do: 
 - A new github rep
@@ -13,4 +13,3 @@ What can we do:
 3. three
 
 https://www.github.com
-
